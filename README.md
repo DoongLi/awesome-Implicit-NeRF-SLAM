@@ -53,7 +53,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * SDF-based RGB-D Camera Tracking in Neural Scene Representations, *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
 * **Orbeez-SLAM**: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2209.13274.pdf)]
 * **ESLAM**: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields, *arXiv,  2022*. [[Paper](https://arxiv.org/pdf/2211.11704.pdf)]
-* **Vox-Fusion**: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation, *ISMAR,  2022*. [[Paper](https://arxiv.org/pdf/2210.15858.pdf)] [[Website](https://yangxingrui.com/vox-fusion/)] [[Pytorch Code]](https://github.com/zju3dv/Vox-Fusion) [[Video]](https://www.youtube.com/watch?v=Prp28y1b2Qs)
+* **Vox-Fusion**: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation, *ISMAR,  2022*. [[Paper](https://arxiv.org/pdf/2210.15858.pdf)] [[Website](https://yangxingrui.com/vox-fusion/)] [[Pytorch Code](https://github.com/zju3dv/Vox-Fusion)] [[Video](https://www.youtube.com/watch?v=Prp28y1b2Qs)]
+* Towards Open World NeRF-Based SLAM, *arXiv, 2023*.  [[Paper](https://arxiv.org/pdf/2301.03102.pdf)]
 
 ---
 ### Lidar-SLAM
