@@ -58,7 +58,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding, *arXiv,  2022*. [[Paper](https://arxiv.org/pdf/2210.03043.pdf)]  [[Website](https://yangxingrui.com/vox-fusion/)] [[Pytorch Code](https://github.com/zju3dv/Vox-Fusion)] [[Video](https://www.youtube.com/watch?v=ysaohKI_Pf0)]
 * Towards Open World NeRF-Based SLAM, *arXiv, 2023*.  [[Paper](https://arxiv.org/pdf/2301.03102.pdf)]
 *  Dense RGB SLAM with Neural Implicit Maps, *ICLR, 2023*. [[Paper](https://arxiv.org/pdf/2301.08930v1.pdf)]\
-*  **vMAP**: Vectorised Object Mapping for Neural Field SLAM, *arXiv,  2023* [[Paper](https://arxiv.org/pdf/2302.01838.pdf)]  [[Website](https://kxhit.github.io/vMAP)] [[Pytorch Code](https://github.com/kxhit/vMAP)] [[Video](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)]
+*  **vMAP**: Vectorised Object Mapping for Neural Field SLAM, *arXiv,  2023*. [[Paper](https://arxiv.org/pdf/2302.01838.pdf)]  [[Website](https://kxhit.github.io/vMAP)] [[Pytorch Code](https://github.com/kxhit/vMAP)] [[Video](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)]
+*  **NICER-SLAM**: Neural Implicit Scene Encoding for RGB SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2302.03594.pdf)] [[Video](https://www.youtube.com/watch?v=tUXzqEZWg2w)]
 
 ---
 ### Lidar-SLAM
