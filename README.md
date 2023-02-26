@@ -60,12 +60,13 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  Dense RGB SLAM with Neural Implicit Maps, *ICLR, 2023*. [[Paper](https://arxiv.org/pdf/2301.08930v1.pdf)]\
 *  **vMAP**: Vectorised Object Mapping for Neural Field SLAM, *arXiv,  2023*. [[Paper](https://arxiv.org/pdf/2302.01838.pdf)]  [[Website](https://kxhit.github.io/vMAP)] [[Pytorch Code](https://github.com/kxhit/vMAP)] [[Video](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)]
 *  **NICER-SLAM**: Neural Implicit Scene Encoding for RGB SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2302.03594.pdf)] [[Video](https://www.youtube.com/watch?v=tUXzqEZWg2w)]
+*  Implicit Map Augmentation for Relocalization, *ECCV Workshop, 2022*.[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25066-8_36)]
 
 ---
 ### Lidar-SLAM
 
 - **SHINE-Mapping**: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.02299.pdf)] [[Code](https://github.com/PRBonn/SHINE_mapping)]
-- IRMCL: Implicit Representation-based Online Global Localization, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Code](https://github.com/PRBonn/ir-mcl)]
+- **IRMCL**: Implicit Representation-based Online Global Localization, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Code](https://github.com/PRBonn/ir-mcl)]
 
 ---
 ## Robotics
