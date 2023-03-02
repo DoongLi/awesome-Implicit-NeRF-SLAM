@@ -123,7 +123,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * Full-Body Visual Self-Modeling of Robot Morphologies, *Science Robotics, 2022*. [[Paper](https://arxiv.org/abs/2205.01389)] [[Pytorch Code](https://github.com/BoyuanChen/visual-selfmodeling)] [[Website](https://robot-morphology.cs.columbia.edu/)]
 
-* **CLIP-Fields**: Open-label semantic navigation with pre-trained VLMs and language models, *arxiv, 2022*. [[Paper](https://arxiv.org/abs/2210.05663)] [[Pytorch Code and Tutorials](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
+* **CLIP-Fields**: Open-label semantic navigation with pre-trained VLMs and language models, *arXiv, 2022*. [[Paper](https://arxiv.org/abs/2210.05663)] [[Pytorch Code and Tutorials](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
+
+* Renderable Neural Radiance Map for Visual Navigation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.00304.pdf)]
 
 ----
 ## Citation
