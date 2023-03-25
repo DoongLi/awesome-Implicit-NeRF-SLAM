@@ -65,6 +65,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  **vMAP**: Vectorised Object Mapping for Neural Field SLAM, *CVPR,  2023*. [[Paper](https://arxiv.org/pdf/2302.01838.pdf)] [[Website](https://kxhit.github.io/vMAP)] [[Pytorch Code](https://github.com/kxhit/vMAP)] [[Video](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)]
 *  **NICER-SLAM**: Neural Implicit Scene Encoding for RGB SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2302.03594.pdf)] [[Video](https://www.youtube.com/watch?v=tUXzqEZWg2w)]
 *  Implicit Map Augmentation for Relocalization, *ECCV Workshop, 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25066-8_36)]
+*  **Uni-Fusion**: Universal Continuous Mapping, *arXiv, 2023*.[[Paper](https://arxiv.org/pdf/2303.12678.pdf)] [[Website](https://jarrome.github.io/Uni-Fusion/)]
 
 ---
 ### Lidar-SLAM
