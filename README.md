@@ -79,6 +79,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  Neural Implicit Dense Semantic SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.14560.pdf)]
 *  **FMapping**: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2306.00579v1.pdf)] [[Website](https://vlis2022.github.io/fmap/)] [[Code](https://github.com/thua919/FMapping)] 
 *  **UncLe-SLAM**: Uncertainty Learning for Dense Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2306.11048.pdf)]
+*  **iMODE**:Real-Time Incremental Monocular Dense Mapping Using Neural Field, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161538)]
 
 ---
 ### Lidar-SLAM
