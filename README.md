@@ -81,7 +81,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  **UncLe-SLAM**: Uncertainty Learning for Dense Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2306.11048.pdf)]
 *  **iMODE**:Real-Time Incremental Monocular Dense Mapping Using Neural Field, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161538)]
 *  **NISB-Map**: Scalable Mapping With Neural Implicit Spatial Block, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10163242)]
-*  RGB-D Mapping and Tracking in a Plenoxel Radiance Field, *arXiv, 2023* .[[Paper](https://arxiv.org/pdf/2307.03404.pdf)]
+*  RGB-D Mapping and Tracking in a Plenoxel Radiance Field, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2307.03404.pdf)]
+*  Efficient Map Fusion for Multiple Implicit SLAM Agents, *TIV, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10189088)]
 
 ---
 ### Lidar-SLAM
@@ -128,6 +129,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **NiFR**: Neural Fields for Robotic Object Manipulation from a Single Image, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.12126.pdf)]
 
 * **Local Neural Descriptor Fields**: Locally Conditioned Object Representations for Manipulation, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2302.03573.pdf)] [[Code](https://github.com/elchun/lndf_robot)] [[Website](https://elchun.github.io/lndf/)]
+
+* **Equivariant Descriptor Fields**: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning, *ICLR, 2023*. [[Paper](https://openreview.net/forum?id=dnjZSPGmY5O)] [[Code](https://github.com/tomato1mule/edf)] 
 
 ---
 ### Planning/Navigation
