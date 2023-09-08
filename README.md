@@ -99,7 +99,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### Multimodal-SLAM
 
-- Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
+- Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV(oral), 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
 
 ---
 ## Robotics
