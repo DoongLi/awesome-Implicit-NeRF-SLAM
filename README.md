@@ -89,7 +89,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **DynaMoN**: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2309.08927.pdf)]
 * End-to-End RGB-D SLAM With Multi-MLPs Dense Neural Implicit Representations, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10238793)]
 * **HI-SLAM**: Monocular Real-time Dense Mapping with Hybrid Implicit Fields, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2310.04787.pdf)]
-* **CP-SLAM**: Collaborative Neural Point-based SLAM, *Thirty-seventh Conference on Neural Information Processing Systems, 2023*. [[Paper](https://openreview.net/pdf?id=dFSeZm6dTC)]
+* **CP-SLAM**: Collaborative Neural Point-based SLAM, *NeurIPS, 2023*. [[Paper](https://openreview.net/pdf?id=dFSeZm6dTC)]
 
 ---
 ### Lidar-SLAM
