@@ -92,6 +92,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **CP-SLAM**: Collaborative Neural Point-based SLAM, *NeurIPS, 2023*. [[Paper](https://openreview.net/pdf?id=dFSeZm6dTC)]
 * **NGEL-SLAM**: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.09525.pdf)]
 * **SNI-SLAM**: Semantic Neural Implicit SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11016.pdf)]
+* **GS-SLAM**: Dense Visual SLAM with 3D Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11700.pdf)]
+* Implicit Event-RGBD Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11013.pdf)]
 
 ---
 ### Lidar-SLAM
