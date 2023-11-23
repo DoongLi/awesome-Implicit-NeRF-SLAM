@@ -24,8 +24,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
     - [Planning/Navigation](#planningnavigation)
 
-    - [Localization](#localization)
-
   - [Citation](#citation)
 
 ---
@@ -177,7 +175,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### Localization
 
-* **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 ----
 ## Citation
 
