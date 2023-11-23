@@ -173,6 +173,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NeRF-VINS**: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2309.09295.pdf)]
 
+### Localization
+
 ----
 ## Citation
 
