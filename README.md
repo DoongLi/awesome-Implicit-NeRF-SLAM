@@ -179,6 +179,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ### Localization
 
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
+
+* **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Pytorch Code](https://github.com/PRBonn/LocNDF)]
 ----
 ## Citation
 
