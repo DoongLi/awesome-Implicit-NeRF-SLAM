@@ -97,6 +97,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **GS-SLAM**: Dense Visual SLAM with 3D Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11700.pdf)]
 * Implicit Event-RGBD Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11013.pdf)]
 * **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.16728.pdf)]
+* **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
 
 ---
 ### Lidar-SLAM
