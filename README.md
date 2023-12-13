@@ -117,7 +117,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **GS-SLAM**: Dense Visual SLAM with 3D Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11700.pdf)]
 * **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
-* Gaussian Splatting SLAM, *Doc, 2023*. [[Paper](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/hide-et-al_GaussianSplattingSLAM_Dec2023.pdf)] [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
+* Gaussian Splatting SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.06741.pdf)] [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
