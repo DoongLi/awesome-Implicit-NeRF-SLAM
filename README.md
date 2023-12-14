@@ -95,7 +95,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **NGEL-SLAM**: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.09525.pdf)]
 * **SNI-SLAM**: Semantic Neural Implicit SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11016.pdf)]
 * Implicit Event-RGBD Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11013.pdf)]
-* **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.16728.pdf)]
 * **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
 
 ---
@@ -116,6 +115,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ### 3D Gaussian Splatting Visual-SLAM
 
 * **GS-SLAM**: Dense Visual SLAM with 3D Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11700.pdf)]
+* **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.16728.pdf)]
 * **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
 * Gaussian Splatting SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.06741.pdf)] [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
 * Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting, *Doc, 2023*. [[Paper](https://ivi.fnwi.uva.nl/cv/paper/GaussianSLAM.pdf)] [[Website](https://vladimiryugay.github.io/gaussian_slam/)]
