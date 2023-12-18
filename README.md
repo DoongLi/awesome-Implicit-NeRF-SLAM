@@ -96,6 +96,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **SNI-SLAM**: Semantic Neural Implicit SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11016.pdf)]
 * Implicit Event-RGBD Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11013.pdf)]
 * **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
+* **PLGSLAM**: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.09866.pdf)]
 
 ---
 ### Lidar-SLAM
