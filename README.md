@@ -119,7 +119,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.16728.pdf)]
 * **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
 * Gaussian Splatting SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.06741.pdf)] [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
-* Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting, *Doc, 2023*. [[Paper](https://ivi.fnwi.uva.nl/cv/paper/GaussianSLAM.pdf)] [[Website](https://vladimiryugay.github.io/gaussian_slam/)]
+* Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.10070.pdf)] [[Website](https://vladimiryugay.github.io/gaussian_slam/)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
