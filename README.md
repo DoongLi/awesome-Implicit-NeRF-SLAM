@@ -104,6 +104,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.13332.pdf)]
 * **DN-SLAM**: A Visual SLAM with ORB Features and NeRF Mapping in Dynamic Environments, *Sensors, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10376402)]
 * **NID-SLAM**: Neural Implicit Representation-based RGB-D SLAM in dynamic environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01189.pdf)]
+* **DDN-SLAM**: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01545.pdf)]
 
 ---
 
