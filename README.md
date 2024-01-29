@@ -120,10 +120,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 - **LONER**: LiDAR Only Neural Representations for Real-Time SLAM, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2309.04937.pdf)]
 - PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.09101.pdf)] [[Code](https://github.com/PRBonn/PIN_SLAM)]
 
-### Multimodal-SLAM
+### Multimodal NeRF SLAM
 
 - Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV(oral), 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
-- **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)]
+
 
 ### 3D Gaussian Splatting Visual-SLAM
 
@@ -134,6 +134,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.10070.pdf)] [[Website](https://vladimiryugay.github.io/gaussian_slam/)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
+
+### Multimodal 3D Gaussian Splatting SLAM
+- **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
 
 ---
 
