@@ -123,6 +123,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ### Multimodal-SLAM
 
 - Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV(oral), 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
+- **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)]
 
 ### 3D Gaussian Splatting Visual-SLAM
 
