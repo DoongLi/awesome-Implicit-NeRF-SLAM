@@ -105,7 +105,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **DN-SLAM**: A Visual SLAM with ORB Features and NeRF Mapping in Dynamic Environments, *Sensors, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10376402)]
 * **NID-SLAM**: Neural Implicit Representation-based RGB-D SLAM in dynamic environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01189.pdf)]
 * **DDN-SLAM**: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01545.pdf)]
-* **Hi-Map**: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.03203.pdf)] [[Website](https://vlis2022.github.io/fmap/)] [[Code](https://github.com/thua919/FMapping)] 
+* **Hi-Map**: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.03203.pdf)] [[Website](https://vlis2022.github.io/fmap/)] [[Code](https://github.com/thua919/FMapping)]
+* **NeuV-SLAM**: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.02020.pdf)] [[Code](https://github.com/DARYL-GWZ/NeuV-SLAM/tree/main)]
 
 ---
 
@@ -132,6 +133,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
 * Gaussian Splatting SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.06741.pdf)] [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
 * Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.10070.pdf)] [[Website](https://vladimiryugay.github.io/gaussian_slam/)]
+* **MoD-SLAM**: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03762.pdf)]
+* **SGS-SLAM**: Semantic Gaussian Splatting For Neural Dense SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03246.pdf)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
