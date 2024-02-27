@@ -103,9 +103,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors,  *NeurIPS, 2023*. [[Paper](https://arxiv.org/pdf/2310.11598.pdf)] [[Code](https://github.com/MachinePerceptionLab/Attentive_DFPrior)] [[Website](https://machineperceptionlab.github.io/Attentive_DF_Prior/)]
 * **NGEL-SLAM**: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.09525.pdf)]
 * **SNI-SLAM**: Semantic Neural Implicit SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11016.pdf)]
-* Implicit Event-RGBD Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11013.pdf)]
+* Implicit Event-RGBD Neural SLAM, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2311.11013.pdf)]
 * **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
-* **PLGSLAM**: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.09866.pdf)]
+* **PLGSLAM**: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.09866.pdf)]
 * **NeRF-VO**: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
 * Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.13332.pdf)]
 * **DN-SLAM**: A Visual SLAM with ORB Features and NeRF Mapping in Dynamic Environments, *Sensors, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10376402)]
@@ -136,7 +136,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### 3D Gaussian Splatting Visual-SLAM
 
-* **GS-SLAM**: Dense Visual SLAM with 3D Gaussian Splatting, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.11700.pdf)]
+* **GS-SLAM**: Dense Visual SLAM with 3D Gaussian Splatting, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2311.11700.pdf)]
 * **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2311.16728.pdf)]
 * **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
 * Gaussian Splatting SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.06741.pdf)] [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
