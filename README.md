@@ -54,6 +54,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### Survey Paper
 - How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2402.13255.pdf)]
+- SLAM Meets NeRF: A Survey of Implicit SLAM Methods, *World Electric Vehicle Journal, 2024*. [[Paper](https://www.mdpi.com/2032-6653/15/3/85)]
 
 ### Benchmarks
 - Customizable Perturbation Synthesis for Robust SLAM Benchmarking, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2402.08125.pdf)]
