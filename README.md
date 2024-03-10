@@ -58,6 +58,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### Benchmarks
 - Customizable Perturbation Synthesis for Robust SLAM Benchmarking, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2402.08125.pdf)]
+- How the Hell does NeRF Matter for Real-Time RGB-D SLAM: A Novel Benchmark for Scene Representation and Geometric Rendering, *CVPR, 2024*
 
 ### Visual-SLAM
 
@@ -116,7 +117,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **NeuV-SLAM**: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.02020.pdf)] [[Code](https://github.com/DARYL-GWZ/NeuV-SLAM/tree/main)]
 * **Structerf-SLAM**: Neural implicit representation SLAM for structural environments, *Computers & Graphics, 2024*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849324000207)]
 * **Loopy-SLAM**: Dense Neural SLAM with Loop Closures, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2402.09944.pdf)]
-* How the Hell does NeRF Matter for Real-Time RGB-D SLAM: A Novel Benchmark for Scene Representation and Geometric Rendering, *CVPR, 2024*
 
 ---
 
