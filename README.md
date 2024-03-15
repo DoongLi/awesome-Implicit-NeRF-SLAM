@@ -227,7 +227,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Pytorch Code](https://github.com/PRBonn/LocNDF)]
 
-* Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization, *ICRA, 2024*, [[Paper]](https://arxiv.org/pdf/2310.06984.pdf) [[Video]](https://drive.google.com/file/d/1YUMlngGFvYY_iPNu9wMA1woxw8432qXh/view?usp=sharing)
+* Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization, *ICRA, 2024*. [[Paper]](https://arxiv.org/pdf/2310.06984.pdf) [[Video]](https://drive.google.com/file/d/1YUMlngGFvYY_iPNu9wMA1woxw8432qXh/view?usp=sharing)
+* **The NeRFect Match**: Exploring NeRF Features for Visual Localization, *arXiv, 2024*. [[Paper]](https://arxiv.org/pdf/2403.09577.pdf)
 ----
 
 ## Citation
