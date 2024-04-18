@@ -126,6 +126,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Efficient 3D Instance Mapping and Localization with Neural Fields, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.19797.pdf)] [[Website](https://gtangg12.github.io/iML/)]
 * **NeSLAM**: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.20034.pdf)]
 * **KN-SLAM**: Keypoints and Neural Implicit Encoding SLAM, *TIM, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10474286)]
+* SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2404.11419.pdf)]
 ---
 
 ### Lidar-SLAM
