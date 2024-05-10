@@ -61,6 +61,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ### Benchmarks
 - Customizable Perturbation Synthesis for Robust SLAM Benchmarking, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2402.08125.pdf)]
 - Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.19473.pdf)] [[Code](https://github.com/thua919/NeRF-SLAM-Benchmark-CVPR24)] [[Website](https://vlis2022.github.io/nerf-slam-benchmark/)]
+- Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2405.05526)]
 
 ### Visual-SLAM
 
@@ -149,7 +150,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### Multimodal NeRF SLAM
 
-- Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV(oral), 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
+- Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV, 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
+- NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.05807)]
 
 
 ### 3D Gaussian Splatting Visual-SLAM
