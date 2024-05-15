@@ -137,6 +137,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2405.06241)]
 * **VPE-SLAM**: Neural Implicit Voxel-Permutohedral Encoding for SLAM, *ICRA 2024*. [[Paper](todo)]
 * **ONeK-SLAM**: A Robust Object-Level Dense SLAM Based on Joint Neural Radiance Fields and Keypoints, *ICRA 2024*. [[Paper](todo)]
+* **HERO-SLAM**: Hybrid Enhanced Robust Optimization of Neural SLAM, *ICRA 2024*. [[Paper](todo)] [[Code](https://github.com/hero-slam/HERO-SLAM)] [[Website](https://hero-slam.github.io/)]
 ---
 
 ### Lidar-SLAM
