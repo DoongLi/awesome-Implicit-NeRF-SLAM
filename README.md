@@ -136,6 +136,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Neural Graph Mapping for Dense SLAM with Efficient Loop Closure, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2405.03633)] [[Code](https://github.com/KTH-RPL/neural_graph_mapping)] [[Website](https://kth-rpl.github.io/neural_graph_mapping/)]
 * **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2405.06241)]
 * **VPE-SLAM**: Neural Implicit Voxel-Permutohedral Encoding for SLAM, *ICRA 2024*. [[Paper](todo)]
+* **ONeK-SLAM**: A Robust Object-Level Dense SLAM Based on Joint Neural Radiance Fields and Keypoints, *ICRA 2024*. [[Paper](todo)]
 ---
 
 ### Lidar-SLAM
