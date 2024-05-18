@@ -256,6 +256,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Active Implicit Reconstruction Using One-Shot View Planning, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2310.00685)]
 * How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2310.00684)]
 * **GS-Planner**: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.10142)]
+* NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2309.13240)]
 
 
 ### Localization
@@ -266,6 +267,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization, *ICRA, 2024*. [[Paper]](https://arxiv.org/pdf/2310.06984.pdf) [[Video]](https://drive.google.com/file/d/1YUMlngGFvYY_iPNu9wMA1woxw8432qXh/view?usp=sharing)
 * **The NeRFect Match**: Exploring NeRF Features for Visual Localization, *arXiv, 2024*. [[Paper]](https://arxiv.org/pdf/2403.09577.pdf)
+
+### Re-localization
+
 ----
 
 ## Citation
