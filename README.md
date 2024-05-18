@@ -271,6 +271,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### Re-localization
 
+* Camera Relocalization in Shadow-Free Neural Radiance Fields, *ICRA, 2024*. [[Paper](TODO)]
+
+
 ----
 
 ## Citation
