@@ -280,6 +280,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **The NeRFect Match**: Exploring NeRF Features for Visual Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.09577.pdf)]
 * Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2310.06984)]
 * **NuRF**: Nudging the Particle Filter in Radiance Fields for Robot Visual Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.00312)]
+* Fast Global Localization on Neural Radiance Field, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.12202)]
 
 ### Re-localization
 
