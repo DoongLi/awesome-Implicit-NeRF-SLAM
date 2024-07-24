@@ -301,11 +301,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 If you find this repository useful, please consider citing this list:
 
 ```
-@misc{doong2022implicitnerfslampaperlist,
+@misc{dong2022implicitnerfslampaperlist,
     title = {awesome-Implicit-NeRF-SLAM},
-    author = {Doong Li},
-    journal = {GitHub repository},
-    url = {https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM},
-    year = {2022},
+    author = {Dong Li},
+    howpublished = {\url{https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM}},
+    year = {2022}
 }
 ```
