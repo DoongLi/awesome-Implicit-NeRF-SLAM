@@ -305,6 +305,7 @@ If you find this repository useful, please consider citing this list:
     title = {awesome-Implicit-NeRF-SLAM},
     author = {Dong Li},
     howpublished = {\url{https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM}},
-    year = {2022}
+    year = {2022},
+    note = "[Online; accessed 08-December-2022]"
 }
 ```
