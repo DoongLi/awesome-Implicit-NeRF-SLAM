@@ -17,6 +17,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
   - [NeRF General Model](#nerf-general-model)
   - [Survey Paper](#survey-paper)
   - [Benchmarks](#benchmarks)
+  - [Tutorials&Workshops](tutorials-and-workshops)
   - [NeRF SLAM](#nerf-slam)
     - [Visual-SLAM](#Visual-SLAM)
     - [Lidar-SLAM](#Lidar-SLAM)
@@ -69,6 +70,12 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.19473.pdf)] [[Code](https://github.com/thua919/NeRF-SLAM-Benchmark-CVPR24)] [[Website](https://vlis2022.github.io/nerf-slam-benchmark/)]
 - Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2405.05526)]
 - From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2406.16850)] [[Code](https://github.com/Xiaohao-Xu/SLAM-under-Perturbation)]
+
+## Tutorials and Workshops
+
+#### Workshops
+
+- **RoboNerF**: 1st Workshop on Neural Fields in Robotics, *ICRA, 2024*. [[Website](https://robonerf.github.io/2024/)] [[Video](https://www.youtube.com/watch?v=jyEZtbXs3fg)]
 
 ## NeRF SLAM
 
