@@ -211,6 +211,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **TAMBRIDGE**: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.19614)] [[Code](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID)] [[Website](https://zeldafromheaven.github.io/TAMBRIDGE/)]
 * **GS3LAM**: Gaussian Semantic Splatting SLAM, *MM, 2024*. [[Paper](https://openreview.net/pdf?id=juMYrkJlV3)] [[Code](https://github.com/lif314/GS3LAM)]
 * **IG-SLAM**: Instant Gaussian SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.01126)]
+* Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.03825)]
+
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
