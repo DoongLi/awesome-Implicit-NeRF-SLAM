@@ -70,6 +70,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.19473.pdf)] [[Code](https://github.com/thua919/NeRF-SLAM-Benchmark-CVPR24)] [[Website](https://vlis2022.github.io/nerf-slam-benchmark/)]
 - Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2405.05526)]
 - From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2406.16850)] [[Code](https://github.com/Xiaohao-Xu/SLAM-under-Perturbation)]
+- Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2408.04268)]
 
 ## Tutorials and Workshops
 
