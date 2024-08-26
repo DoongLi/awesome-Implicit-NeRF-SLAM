@@ -216,6 +216,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.03825)]
 * Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.05635)]
 * **LoopSplat**: Loop Closure by Registering 3D Gaussian Splats, , *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.10154)] [[Code](https://loopsplat.github.io/)] [[Website](https://github.com/GradientSpaces/LoopSplat)]
+* GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.12677)] [[Code](https://github.com/goldoak/GSFusion)] [[Website](https://gs-fusion.github.io/)]
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
