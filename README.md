@@ -185,7 +185,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 - Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV, 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)] [[Website](https://zju3dv.github.io/tof_slam/)] [[Code](https://github.com/zju3dv/tof_slam)]
 - **NeuRSS**: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.05807)]
-- **Rapid-Mapping**: LiDAR-Visual Implicit Neural Representations for Real-Time Dense Mapping, *RAL, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631303&casa_token=FCrHV9Ve6e0AAAAA:pA-LGLz-cGRTT1PoD6C6uU6x6Gkg5dM1OPaVN1VCHKxiRTqTfXkl8nQGjlPMH_97ysgeOt7x)]
+- **Rapid-Mapping**: LiDAR-Visual Implicit Neural Representations for Real-Time Dense Mapping, *RAL, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631303&casa_token=FCrHV9Ve6e0AAAAA:pA-LGLz-cGRTT1PoD6C6uU6x6Gkg5dM1OPaVN1VCHKxiRTqTfXkl8nQGjlPMH_97ysgeOt7x)] [[Code](https://github.com/zhw-github/Rapid-Mapping)]
 
 ## 3DGS SLAM
 
