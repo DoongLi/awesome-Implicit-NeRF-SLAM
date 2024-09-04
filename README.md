@@ -218,6 +218,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **LoopSplat**: Loop Closure by Registering 3D Gaussian Splats, , *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.10154)] [[Code](https://loopsplat.github.io/)] [[Website](https://github.com/GradientSpaces/LoopSplat)]
 * GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.12677)] [[Code](https://github.com/goldoak/GSFusion)] [[Website](https://gs-fusion.github.io/)]
 * **OG-Mapping**: Octree-based Structured 3D Gaussians for Online Dense Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.17223)]
+* **UDGS-SLAM**: UniDepth Assisted Gaussian Splatting for Monocular SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.00362)]
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
