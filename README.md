@@ -305,6 +305,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GS-Planner**: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2405.10142)] [[Video](https://www.bilibili.com/video/BV1e1421S7Kh/)]
 * NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2309.13240)]
 * Neural Visibility Field for Uncertainty-Driven Active Mapping, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2406.06948)] [[Website](https://sites.google.com/view/nvf-cvpr24/)] [[Code](https://github.com/GaTech-RL2/nvf_cvpr24)]
+* **BEINGS**: Bayesian Embodied Image-goal Navigation with Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.10216)] [[Website](https://www.mwg.ink/BEINGS-web/)] [[Code](https://github.com/guaMass/BEINGS)]
 
 ### Localization
 
