@@ -126,7 +126,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **NGEL-SLAM**: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2311.09525.pdf)] [[Code](https://github.com/YunxuanMao/ngel_slam)] 
 * **SNI-SLAM**: Semantic Neural Implicit SLAM, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2311.11016.pdf)] [[Code](https://github.com/IRMVLab/SNI-SLAM)]
 * Implicit Event-RGBD Neural SLAM, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2311.11013.pdf)]
-* **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
+* **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2312.00204.pdf)] [Code](https://github.com/Li-Kunyi/dns-slam)]
 * **PLGSLAM**: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.09866.pdf)]
 * **NeRF-VO**: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
 * Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.13332.pdf)]
