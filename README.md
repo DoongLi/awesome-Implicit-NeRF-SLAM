@@ -167,6 +167,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **NIS-SLAM**: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding,  *TVCG, 2024*. [[Paper](https://arxiv.org/pdf/2407.20853)] [[Website](https://zju3dv.github.io/nis_slam/)]
 * **DDS-SLAM**: Dense Semantic Neural SLAM for Deforming Endoscopic Scenes,  *IROS, 2024*. [Paper] [[Code](https://github.com/IRMVLab/DDS-SLAM)]
 * **FI-SLAM**: Feature Fusion and Instance Reconstruction for Neural Implicit SLAM,  *IROS, 2024*. [Paper] [Code]
+* **LCP-Fusion**: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior,  *IROS, 2024*. [Paper] [[Code](https://github.com/laliwang/LCP-Fusion)]
 
 ---
 
