@@ -316,6 +316,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.11966)]
 * **HGSLoc**: 3DGS-based Heuristic Camera Pose Refinement, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.10925)]
 * **GSLoc**: Efficient Camera Pose Refinement via 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.11085)] [[Website](https://gsloc.active.vision/)]
+* **MULAN-WC**: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2403.13348)]
 
 ### Re-localization
 
