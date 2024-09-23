@@ -226,6 +226,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GEVO**: Memory-Efficient Monocular Visual Odometry Using Gaussians, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.09295)] [[Code](https://github.com/mit-lean/gevo)]
 * **GLC-SLAM**: Gaussian Splatting SLAM with Efficient Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.10982)]
 * **Hi-SLAM**: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.12518)]
+* **MGSO**: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.13055)]
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
