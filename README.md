@@ -323,6 +323,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161420&casa_token=xvxGsiWymY0AAAAA:K21qxl7O2Uef-4Gfzqsu_TiA_2GE7EY5Q9iJyawRGZ8sWMKfsxTuANCC7pOcAByT45rS-XIk&tag=1)] [[Code](https://github.com/TencentYoutuResearch/NeRF-Loc)]
 * **WSCLoc**: Weakly-Supervised Sparse-View Camera Relocalization via Radiance Field, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.15272)]
 * **CROSSFIRE**: Camera Relocalization On Self-Supervised Features from an Implicit Representation, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.15272)]
+* **GSplatLoc**: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16502)] [[Website](https://gsplatloc.github.io/)] [[Code](https://github.com/haksorus/gsplatloc)]
 
 ### Re-localization
 
