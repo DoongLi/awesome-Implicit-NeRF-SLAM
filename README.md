@@ -28,11 +28,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
     - [Multimodal 3D Gaussian Splatting SLAM](#multimodal-3d-gaussian-splatting-slam)
   - [Robotics](#Robotics)
     - [Manipulation/RL](#manipulationrl)
-
     - [Planning/Navigation](#planningnavigation)
-
     - [Localization](#localization)
-
     - [Re-localization](#re-localization)
   - [Citation](#citation)
   - [Acknowledgement](#acknowledgement)
@@ -333,6 +330,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Camera Relocalization in Shadow-Free Neural Radiance Fields, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.14824)]
 * **3DGS-ReLoc**: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Moreau_CROSSFIRE_Camera_Relocalization_On_Self-Supervised_Features_from_an_Implicit_Representation_ICCV_2023_paper.pdf)] 
 
+### Reconstruction
+
+* **Language-Embedded Gaussian Splats (LEGS)**: Incrementally Building Room-Scale Representations with a Mobile Robot, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.18108)] [[Website](https://berkeleyautomation.github.io/LEGS/)]
 
 ----
 
