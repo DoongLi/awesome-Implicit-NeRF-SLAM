@@ -164,6 +164,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **FI-SLAM**: Feature Fusion and Instance Reconstruction for Neural Implicit SLAM,  *IROS, 2024*. [Paper] [Code]
 * **LCP-Fusion**: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior,  *IROS, 2024*. [Paper] [[Code](https://github.com/laliwang/LCP-Fusion)]
 * **NF-SLAM**: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications, *IROS, 2024*. [Paper] [Code]
+* **EvenNICER-SLAM**: Event-based Neural Implicit Encoding SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.03812)] [[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
 
 ---
 
