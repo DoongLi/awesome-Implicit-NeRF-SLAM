@@ -297,7 +297,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.09050.pdf)] [[Code](https://github.com/MIT-SPARK/Loc-NeRF)]
 * **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Code](https://github.com/PRBonn/LocNDF)]
 * Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2310.06984.pdf)] [[Video](https://drive.google.com/file/d/1YUMlngGFvYY_iPNu9wMA1woxw8432qXh/view?usp=sharing)]
-* **The NeRFect Match**: Exploring NeRF Features for Visual Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.09577.pdf)]
+* **The NeRFect Match**: Exploring NeRF Features for Visual Localization, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2403.09577.pdf)] [[Website](https://nerfmatch.github.io/)] [[Code](https://github.com/nv-dvl/nerfmatch)]
 * Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2310.06984)]
 * **NuRF**: Nudging the Particle Filter in Radiance Fields for Robot Visual Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.00312)]
 * Fast Global Localization on Neural Radiance Field, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.12202)] [[Code](https://github.com/kmk97/Fast-Loc-NeRF)]
