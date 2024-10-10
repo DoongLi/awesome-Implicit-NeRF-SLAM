@@ -228,6 +228,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **CaRtGS**: Computational Alignment for Real-Time Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.00486)] [[Code](https://github.com/DapengFeng/cartgs)] [[Website](https://dapengfeng.github.io/cartgs/)]
 * Robust Gaussian Splatting SLAM by Leveraging Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20111)]
 * **ES-Gaussian**: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.06613)] [[Website](https://chenlu-china.github.io/ES-Gaussian/)] [[Code](https://github.com/ChenLu-china/ESGaussian)]
+* **GS-EVT**: Cross-Modal Event Camera Tracking based on Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.19228)]
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
