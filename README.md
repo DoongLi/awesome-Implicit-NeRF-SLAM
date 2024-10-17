@@ -316,6 +316,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **CROSSFIRE**: Camera Relocalization On Self-Supervised Features from an Implicit Representation, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.15272)]
 * **GSplatLoc**: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16502)] [[Website](https://gsplatloc.github.io/)] [[Code](https://github.com/haksorus/gsplatloc)]
 * **GSLoc**: Visual Localization with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.06165)]
+* **LoGS**: Visual Localization via Gaussian Splatting with Fewer Training Images, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.11505)] [[Code](https://github.com/YuzhouCheng66/LoGS-experiment)]
+
 
 ### Re-localization
 
