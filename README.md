@@ -247,6 +247,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Gaussian-LIC**: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2404.06926.pdf)]
 - Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.05310)] [[Code](https://github.com/hku-mars/M2Mapping)]
 - **LI-GS**: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.12899)]
+- **GS-LIVM**: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.17084)] [[Code](https://github.com/xieyuser/GS-LIVM)]
 
 ---
 
