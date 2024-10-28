@@ -167,6 +167,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **EvenNICER-SLAM**: Event-based Neural Implicit Encoding SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.03812)] [[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
 * **NVINS**: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2404.01400)]
 * Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.08780)]
+* **LRSLAM**: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10364.pdf)]
 
 ---
 
