@@ -59,6 +59,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 - How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.13255.pdf)]
 - SLAM Meets NeRF: A Survey of Implicit SLAM Methods, *World Electric Vehicle Journal, 2024*. [[Paper](https://www.mdpi.com/2032-6653/15/3/85)]
+- Neural Fields in Robotics: A Survey, *arXiv, 2024*.[[Paper](https://arxiv.org/abs/2410.20220)]
 - NeRF in Robotics: A Survey, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2405.01333)]
 
 ## Benchmarks
