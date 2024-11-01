@@ -302,6 +302,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **RT-GuIDE**: Real-Time Gaussian splatting for Information-Driven Exploration, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.18122)] [[Website](https://tyuezhan.github.io/RT_GuIDE/)]
 * Active Neural Mapping at Scale, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20276)]
 * **ActiveSplat**: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.21955)] [[Website](https://li-yuetao.github.io/ActiveSplat/)]
+* Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2303.16739)] [[Code](https://github.com/HITSZ-NRSL/ActiveImplicitRecon)]
 
 ### Localization
 
