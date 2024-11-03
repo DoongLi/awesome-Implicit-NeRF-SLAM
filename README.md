@@ -169,6 +169,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **NVINS**: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2404.01400)]
 * Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.08780)]
 * **LRSLAM**: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10364.pdf)]
+* Bridging the Gap Between Explicit and Implicit Representations: Cross-Data Association for VSLAM, *TITS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10738129)]
 
 ---
 
