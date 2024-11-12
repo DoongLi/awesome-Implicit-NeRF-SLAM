@@ -170,6 +170,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.08780)]
 * **LRSLAM**: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10364.pdf)]
 * Bridging the Gap Between Explicit and Implicit Representations: Cross-Data Association for VSLAM, *TITS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10738129)]
+* **DNIV-SLAM**: Neural Implicit Visual SLAM in Dynamic Environments, *PRCV, 2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-8792-0_3)]
 
 ---
 
