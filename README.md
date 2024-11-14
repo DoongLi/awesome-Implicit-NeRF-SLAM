@@ -172,6 +172,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Bridging the Gap Between Explicit and Implicit Representations: Cross-Data Association for VSLAM, *TITS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10738129)]
 * **DNIV-SLAM**: Neural Implicit Visual SLAM in Dynamic Environments, *PRCV, 2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-8792-0_3)]
 * Improved End-to-End Multilevel NeRF-Based Dense RGB-D SLAM, *PRCV, 2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-8792-0_10)]
+* **MBA-SLAM**: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.08279)] [[Code](https://github.com/WU-CVGL/MBA-SLAM)] [[Website](https://wangpeng000.github.io/MBA-SLAM/)]
 
 ---
 
