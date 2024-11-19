@@ -217,7 +217,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **EndoGSLAM**: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.15124.pdf)] [[Website](https://endogslam.loping151.com/)] [[Code](https://github.com/Loping151/EndoGSLAM)]
 * **CG-SLAM**: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2403.16095.pdf)] [[Code](https://github.com/hjr37/CG-SLAM)] [[Website](https://zju3dv.github.io/cg-slam/)]
 * **RTG-SLAM**: Real-time 3D Reconstruction at Scale using Gaussian Splatting, *SIGGRAPH, 2024*. [[Paper](https://arxiv.org/pdf/2404.19706)] [[Code](https://github.com/MisEty/RTG-SLAM)]
-* **NGM-SLAM**: Gaussian Splatting SLAM with Radiance Field Submap, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.05702)]
 * **MotionGS** : Compact Gaussian Splatting SLAM by Motion Filter, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.11129)] [[Code](https://github.com/Antonio521/MotionGS)]
 * Monocular Gaussian SLAM with Language Extended Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.13748)]
 * **Splat-SLAM**: Globally Optimized RGB-only SLAM with 3D Gaussians, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.16544)] [[Code](https://github.com/eriksandstroem/Splat-SLAM)] [[Code Google Version](https://github.com/google-research/Splat-SLAM)]
@@ -243,6 +242,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GSORB-SLAM**: Gaussian Splatting SLAM benefits from ORB features and Transmittance information, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.11356)]
 * **DG-SLAM**: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization, *NeurIPS, 2024*. [[Paper](https://openreview.net/pdf?id=tGozvLTDY3)] [[Code](https://github.com/fudan-zvg/DG-SLAM)]
 * **AG-SLAM**: Active Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.17422)]
+* **DGS-SLAM**: Gaussian Splatting SLAM in Dynamic Environment, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.10722)] [[Code](https://github.com/kmk97/DGS-SLAM)]
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
