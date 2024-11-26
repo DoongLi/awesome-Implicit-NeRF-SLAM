@@ -246,6 +246,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **MonoGS++**: Fast and Accurate Monocular RGB Gaussian SLAM, *BMCV, 2024*. [[Paper-TODO]()]
 * **OVO-SLAM**: Open-Vocabulary Online Simultaneous Localization and Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15043)]
 * **Gassidy**: Gaussian Splatting SLAM in Dynamic Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15476)]
+* **PG-SLAM**: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15800)]
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
