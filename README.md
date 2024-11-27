@@ -247,6 +247,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **OVO-SLAM**: Open-Vocabulary Online Simultaneous Localization and Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15043)]
 * **Gassidy**: Gaussian Splatting SLAM in Dynamic Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15476)]
 * **PG-SLAM**: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15800)]
+* **MAGiC-SLAM**: Multi-Agent Gaussian Globally Consistent SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.16785)] [[Website](https://vladimiryugay.github.io/magic_slam/)] [[Code](https://github.com/VladimirYugay/MAGiC-SLAM)]
 
 
 ### 3D Gaussian Splatting Lidar-SLAM
