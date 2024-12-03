@@ -198,6 +198,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **NeuRSS**: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.05807)]
 - **Rapid-Mapping**: LiDAR-Visual Implicit Neural Representations for Real-Time Dense Mapping, *RAL, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631303&casa_token=FCrHV9Ve6e0AAAAA:pA-LGLz-cGRTT1PoD6C6uU6x6Gkg5dM1OPaVN1VCHKxiRTqTfXkl8nQGjlPMH_97ysgeOt7x)] [[Code](https://github.com/zhw-github/Rapid-Mapping)]
 - Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.05310)] [[Code](https://github.com/hku-mars/M2Mapping)]
+- Monocular thermal SLAM with neural radiance fields for 3D scene reconstruction, *Neurocomputing, 2024*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224018125)]
 
 ## 3DGS SLAM
 
