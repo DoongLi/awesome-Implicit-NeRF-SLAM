@@ -69,6 +69,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2405.05526)]
 - From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2406.16850)] [[Code](https://github.com/Xiaohao-Xu/SLAM-under-Perturbation)]
 - Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2408.04268)]
+- NeRF and Gaussian Splatting SLAM in the Wild, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2412.03263)] [[Code](https://github.com/iis-esslingen/nerf-3dgs-benchmark)]
 
 ## Tutorials and Workshops
 
