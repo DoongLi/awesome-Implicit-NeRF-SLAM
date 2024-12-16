@@ -259,6 +259,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **FlashSLAM**: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.00682)] [[Website](https://flashslam.github.io/)]
 * **RGBDS-SLAM**: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.01217)] [[Code](https://github.com/zhenzhongcao/RGBDS-SLAM)]
 * **GauSPU**: 3D Gaussian Splatting Processor for Real-Time SLAM Systems, *MICRO, 2024*. [[Paper](https://www.computer.org/csdl/proceedings-article/micro/2024/505700b562/22nirMP5znq)]
+* **RP-SLAM**: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.09868)]
+
 
 
 
