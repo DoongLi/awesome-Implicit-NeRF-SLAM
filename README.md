@@ -338,6 +338,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2303.16739)] [[Code](https://github.com/HITSZ-NRSL/ActiveImplicitRecon)]
 * **FisherRF**: Active View Selection and Mapping with Radiance Fields Using Fisher Information, *ECCV, 2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_24)] [[Code](https://github.com/JiangWenPL/FisherRF)] [[Website](https://jiangwenpl.github.io/FisherRF/)]
 * **NARUTO**: Neural Active Reconstruction from Uncertain Target Observations, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2402.18771)] [[Code](https://github.com/oppo-us-research/NARUTO)] [[Website](https://oppo-us-research.github.io/NARUTO-website/)]
+* **SAFER-Splat**: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps, *arXiv, 2024*. [[Paper](https://www.arxiv.org/pdf/2409.09868)] [[Code](https://github.com/chengine/safer-splat)] [[Website](https://chengine.github.io/safer-splat/)]
 
 ### Localization
 
